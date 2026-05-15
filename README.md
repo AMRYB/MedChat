@@ -121,10 +121,10 @@ Examples:
 
 ## Team Contributions
 
-- Amr Yasser (`AMRYB`, `amr10tuf@gmail.com`): RAG system and GUI.
-- ENG: Mohmad Ayman (`mohmadAyman75`, `mohmdwe75@gmail.com`): AraBERT/BERT safety model.
-- Omar Ragab (`Omarragab66`, `omarragab5646@gmail.com`): AraBERT/BERT safety model.
-- Mohamed Galal (`mosha252`, `mosha20155@gmail.com`): NLP pipeline and personalized dosage reasoning modules.
+- Amr Yasser: RAG system and GUI.
+- ENG: Mohmad Ayman: AraBERT/BERT safety model.
+- Omar Ragab: AraBERT/BERT safety model.
+- Mohamed Galal: NLP pipeline and personalized dosage reasoning modules.
 
 
 
