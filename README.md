@@ -121,7 +121,10 @@ Examples:
 
 ## Team Contributions
 
-- Amr Yasser: RAG system and GUI.
-- Mohamed Ayman and Omar Ragab: AraBERT/BERT safety model.
-- Mohamed Galal: the remaining NLP and dosage modules found in the project, including Arabic normalization/intent/NER and personalized dosage reasoning utilities.
+- Amr Yasser (`AMRYB`, `amr10tuf@gmail.com`): RAG system and GUI.
+- ENG: Mohmad Ayman (`mohmadAyman75`, `mohmdwe75@gmail.com`): AraBERT/BERT safety model.
+- Omar Ragab (`Omarragab66`, `omarragab5646@gmail.com`): AraBERT/BERT safety model.
+- Mohamed Galal (`mosha252`, `mosha20155@gmail.com`): NLP pipeline and personalized dosage reasoning modules.
+
+For the detailed contributor list, see `CONTRIBUTORS.md`.
 
